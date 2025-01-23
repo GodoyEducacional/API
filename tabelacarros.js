@@ -6,8 +6,6 @@ const carros2024 = [
         velocidadeMaxima: 340,
         potencia: 800,
         consumo: 5.5,
-        aceleração: 2.9,
-        preço: 300000,
     },
     {
         nome: 'Lamborghini',
@@ -15,8 +13,6 @@ const carros2024 = [
         velocidadeMaxima: 355,
         potencia: 770,
         consumo: 6.2,
-        aceleração: 2.8,
-        preço: 330000,
     },
 ];
 
